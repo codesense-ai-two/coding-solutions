@@ -29,7 +29,7 @@ Given a roman numeral, convert it to an integer.
 
  
 
-**Example 1:**
+ **Example 1:** 
 
 ```
 Input: s = "III"
@@ -38,7 +38,7 @@ Explanation: III = 3.
 
 ```
 
-**Example 2:**
+ **Example 2:** 
 
 ```
 Input: s = "LVIII"
@@ -47,7 +47,7 @@ Explanation: L = 50, V= 5, III = 3.
 
 ```
 
-**Example 3:**
+ **Example 3:** 
 
 ```
 Input: s = "MCMXCIV"
@@ -58,7 +58,7 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
  
 
-**Constraints:**
+ **Constraints:** 
 
 - 1 <= s.length <= 15
 - s contains only the characters ('I', 'V', 'X', 'L', 'C', 'D', 'M').
@@ -67,9 +67,9 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 ## Solution
 
 **Language:** Java  
-**Runtime:** 0 ms  
-**Memory:** 42.5 MB  
-**Submitted:** 2026-06-19T17:36:34.231Z  
+**Runtime:** 3 ms (beats 77.97%)  
+**Memory:** 46.2 MB (beats 93.29%)  
+**Submitted:** 2026-06-20T13:35:17.790Z  
 
 ```java
 class Solution {
