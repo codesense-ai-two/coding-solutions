@@ -54,9 +54,9 @@ An input string is valid if:
 ## Solution
 
 **Language:** Java  
-**Runtime:** 0 ms  
-**Memory:** 42.6 MB  
-**Submitted:** 2026-06-20T13:36:59.054Z  
+**Runtime:** 3 ms (beats 87.57%)  
+**Memory:** 43.1 MB (beats 72.22%)  
+**Submitted:** 2026-06-20T13:37:04.098Z  
 
 ```java
 import java.util.Stack;
